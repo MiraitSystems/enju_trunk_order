@@ -1,0 +1,7 @@
+ja:
+  activerecord:
+    errors:
+      attributes:
+        order:
+          pair_manifestation_identifier:
+            not_found: に該当の資料が見つかりません
